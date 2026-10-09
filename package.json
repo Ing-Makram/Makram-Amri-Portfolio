@@ -1,0 +1,16 @@
+{
+  "name": "makram-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Makram Amri, software engineering portfolio (static React site, EN/FR/AR)",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.0"
+  }
+}
